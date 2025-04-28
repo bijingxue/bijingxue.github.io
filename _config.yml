@@ -21,15 +21,14 @@ repository               : "https://bijingxue.github.io/"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "bijingxue.png"
+  name             : "毕京学(Jingxue Bi)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"The world is so big, yet I owe it a visit."
+  location         : "Shandong,CHINA"
+  employer         : "Shandong Jianzhu University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bijingxue19@sdjzu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
