@@ -86,7 +86,175 @@ redirect_from:
     </table>
 </body>
 
-
+### 个人荣誉
+<body class="bg-gray-100 p-8">
+    <table class="min-w-full bg-white border border-gray-300">
+        <thead>
+            <tr>
+                <th class="py-2 px-4 border-b">序号</th>
+                <th class="py-2 px-4 border-b">荣誉名称</th>
+                <th class="py-2 px-4 border-b">奖励等级</th>
+                <th class="py-2 px-4 border-b">奖励级别</th>
+                <th class="py-2 px-4 border-b">名次</th>
+                <th class="py-2 px-4 border-b">证书号</th>
+                <th class="py-2 px-4 border-b">获奖时间</th>
+                <th class="py-2 px-4 border-b">颁发单位</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="py-2 px-4 border-b">1</td>
+                <td class="py-2 px-4 border-b">2012届优秀毕业生</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2012-06</td>
+                <td class="py-2 px-4 border-b">山东交通学院</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">2</td>
+                <td class="py-2 px-4 border-b">普通高等学校优秀毕业生</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">省级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b">201205910</td>
+                <td class="py-2 px-4 border-b">2012-04-12</td>
+                <td class="py-2 px-4 border-b">山东省人力资源和社会保障厅</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">3</td>
+                <td class="py-2 px-4 border-b">2014年硕士研究生国家奖学金</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">国家级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b">2014年第25847号</td>
+                <td class="py-2 px-4 border-b">2014-12-31</td>
+                <td class="py-2 px-4 border-b">中华人民共和国教育部</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">4</td>
+                <td class="py-2 px-4 border-b">2015届优秀毕业研究生</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2015-04</td>
+                <td class="py-2 px-4 border-b">山东科技大学</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">5</td>
+                <td class="py-2 px-4 border-b">优秀论文</td>
+                <td class="py-2 px-4 border-b">二等</td>
+                <td class="py-2 px-4 border-b">省部级</td>
+                <td class="py-2 px-4 border-b">1/5</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2016-11</td>
+                <td class="py-2 px-4 border-b">2016年全国博士生学术论坛（测绘科学与技术）</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">6</td>
+                <td class="py-2 px-4 border-b">优秀论文</td>
+                <td class="py-2 px-4 border-b">一等</td>
+                <td class="py-2 px-4 border-b">省部级</td>
+                <td class="py-2 px-4 border-b">1/4</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2017-10</td>
+                <td class="py-2 px-4 border-b">2017年全国博士生学术论坛（测绘科学与技术）</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">7</td>
+                <td class="py-2 px-4 border-b">中国矿业大学2018 - 2019学年度优秀创新博士研究生奖学金</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b">2018IV90</td>
+                <td class="py-2 px-4 border-b">2018-11-20</td>
+                <td class="py-2 px-4 border-b">中国矿业大学</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">8</td>
+                <td class="py-2 px-4 border-b">2019年中国矿业大学优秀博士学位论文</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2019-06-14</td>
+                <td class="py-2 px-4 border-b">中国矿业大学</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">9</td>
+                <td class="py-2 px-4 border-b">2019届优秀毕业生</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2019-06</td>
+                <td class="py-2 px-4 border-b">中国矿业大学</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">10</td>
+                <td class="py-2 px-4 border-b">2019年度优秀指导教师奖</td>
+                <td class="py-2 px-4 border-b">一等</td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b">201901107</td>
+                <td class="py-2 px-4 border-b">2020-11-30</td>
+                <td class="py-2 px-4 border-b">山东建筑大学</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">11</td>
+                <td class="py-2 px-4 border-b">2020年度优秀指导教师奖</td>
+                <td class="py-2 px-4 border-b">二等</td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b">202002209</td>
+                <td class="py-2 px-4 border-b">2021-09-14</td>
+                <td class="py-2 px-4 border-b">山东建筑大学</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">12</td>
+                <td class="py-2 px-4 border-b">优秀指导教师[2022年全国大学生测绘学科创新创业智能大赛 - 测绘技能竞赛（测绘程序设计比赛专业组）]</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">省部级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2022-07-27</td>
+                <td class="py-2 px-4 border-b">中国测绘学会</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">13</td>
+                <td class="py-2 px-4 border-b">2022年度优秀指导教师奖</td>
+                <td class="py-2 px-4 border-b">一等</td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2023-06-27</td>
+                <td class="py-2 px-4 border-b">山东建筑大学</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">14</td>
+                <td class="py-2 px-4 border-b">2023年度优秀班主任</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">山东建筑大学</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">15</td>
+                <td class="py-2 px-4 border-b">2023年度优秀指导教师奖</td>
+                <td class="py-2 px-4 border-b">一等</td>
+                <td class="py-2 px-4 border-b">校级</td>
+                <td class="py-2 px-4 border-b">1/1</td>
+                <td class="py-2 px-4 border-b"></td>
+                <td class="py-2 px-4 border-b">2024-08-30</td>
+                <td class="py-2 px-4 border-b">山东建筑大学</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
 ### 研究方向(Interests)
 
 ***
