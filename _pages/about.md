@@ -14,14 +14,77 @@ redirect_from:
 
 毕京学，山东建筑大学项目研究员/副教授，硕士生导师，中国电子科技集团公司第五十四研究所卫星导航系统与装备技术国家重点实验室博士后，中国测绘学会矿山测量专业委员会委员、《导航定位与授时》青年编委/专栏主编、《无线电工程》青年编委，长期从事“北斗+”室内外一体化定位、活动识别、组合导航等方面的科研和教学工作。主持国家自然科学基金青年项目、山东省高等学校青年创新团队发展计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省博士后基金重点资助等10余项，核心参与国家重点研发计划等多项国家级项目，发表学术论文60余篇，其中，第一/通讯作者发表SCI/EI论文18篇、核心论文17篇，中科院1区TOP论文4篇（一作3篇、通讯1篇），第一作者ESI高被引1篇，第一作者中国科协“科技期刊双语传播工程”（2023年度）高质量论文1篇，第一作者中国知网高被引5篇，出版学术著作2部，授权国家发明专利7项、软件著作权10余项。获得中国卫星导航定位科技进步二等奖、山东省自然资源科学技术一等奖各1项。
 ### 科技奖励
-| 获奖项目                                   | 奖励等级 | 奖励级别 | 名次 | 证书号                   | 获奖时间   | 颁发单位                   |
-| ------------------------------------------ | -------- | -------- | ---- | ------------------------ | ---------- | -------------------------- |
-| 室内外复杂场景高精度无缝定位关键技术及应用 | 二等奖   | 省部级   | 3/10 | 2024-01-02-09            | 2024-09    | 中国卫星导航定位协会       |
-| 煤矿区多源增强GNSS无缝定位关键技术及其应用 | 二等奖   | 省部级   | 5/10 | 2020-01-02-07            | 2020-09    | 中国卫星导航定位协会       |
-| 宽基线倾斜影像智能匹配及实景三维重建应用   | 一等奖   | 厅局级   | 7/8  | 鲁自然资科奖证书第13-1号 | 2023-02-02 | 山东省自然资源厅           |
-| 多模态智能终端行人航位推算关键技术         | 一等奖   | 厅局级   | 2/6  | 20240107702              | 2024-09    | 山东省机械工业科学技术协会 |
-| 基于无线信号的室内精密定位优化研究         | 二等奖   | 厅局级   | 1/6  | 20240212701              | 2024-09    | 山东省机械工业科学技术协会 |
-| 影像智能匹配及实景三维重建                 | 二等奖   | 厅局级   | 4/6  | STA-2024-T-R004D         | 2024-10    | 山东省人工智能学会         |
+<body class="bg-gray-100 p-8">
+    <table class="min-w-full bg-white border border-gray-300">
+        <thead>
+            <tr>
+                <th class="py-2 px-4 border-b">获奖项目</th>
+                <th class="py-2 px-4 border-b">奖励等级</th>
+                <th class="py-2 px-4 border-b">奖励级别</th>
+                <th class="py-2 px-4 border-b">名次</th>
+                <th class="py-2 px-4 border-b">证书号</th>
+                <th class="py-2 px-4 border-b">获奖时间</th>
+                <th class="py-2 px-4 border-b">颁发单位</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="py-2 px-4 border-b">室内外复杂场景高精度无缝定位关键技术及应用</td>
+                <td class="py-2 px-4 border-b">二等奖</td>
+                <td class="py-2 px-4 border-b">省部级</td>
+                <td class="py-2 px-4 border-b">3/10</td>
+                <td class="py-2 px-4 border-b">2024-01-02-09</td>
+                <td class="py-2 px-4 border-b">2024-09</td>
+                <td class="py-2 px-4 border-b">中国卫星导航定位协会</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">煤矿区多源增强 GNSS 无缝定位关键技术及其应用</td>
+                <td class="py-2 px-4 border-b">二等奖</td>
+                <td class="py-2 px-4 border-b">省部级</td>
+                <td class="py-2 px-4 border-b">5/10</td>
+                <td class="py-2 px-4 border-b">2020-01-02-07</td>
+                <td class="py-2 px-4 border-b">2020-09</td>
+                <td class="py-2 px-4 border-b">中国卫星导航定位协会</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">宽基线倾斜影像智能匹配及实景三维重建应用</td>
+                <td class="py-2 px-4 border-b">一等奖</td>
+                <td class="py-2 px-4 border-b">厅局级</td>
+                <td class="py-2 px-4 border-b">7/8</td>
+                <td class="py-2 px-4 border-b">鲁自然资科奖证书第 13 - 1 号</td>
+                <td class="py-2 px-4 border-b">2023-02-02</td>
+                <td class="py-2 px-4 border-b">山东省自然资源厅</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">多模态智能终端行人航位推算关键技术</td>
+                <td class="py-2 px-4 border-b">一等奖</td>
+                <td class="py-2 px-4 border-b">厅局级</td>
+                <td class="py-2 px-4 border-b">2/6</td>
+                <td class="py-2 px-4 border-b">20240107702</td>
+                <td class="py-2 px-4 border-b">2024-09</td>
+                <td class="py-2 px-4 border-b">山东省机械工业科学技术协会</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">基于无线信号的室内精密定位优化研究</td>
+                <td class="py-2 px-4 border-b">二等奖</td>
+                <td class="py-2 px-4 border-b">厅局级</td>
+                <td class="py-2 px-4 border-b">1/6</td>
+                <td class="py-2 px-4 border-b">20240212701</td>
+                <td class="py-2 px-4 border-b">2024-09</td>
+                <td class="py-2 px-4 border-b">山东省机械工业科学技术协会</td>
+            </tr>
+            <tr>
+                <td class="py-2 px-4 border-b">影像智能匹配及实景三维重建</td>
+                <td class="py-2 px-4 border-b">二等奖</td>
+                <td class="py-2 px-4 border-b">厅局级</td>
+                <td class="py-2 px-4 border-b">4/6</td>
+                <td class="py-2 px-4 border-b">STA - 2024 - T - R004D</td>
+                <td class="py-2 px-4 border-b">2024-10</td>
+                <td class="py-2 px-4 border-b">山东省人工智能学会</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
 
 
 ### 研究方向(Interests)
