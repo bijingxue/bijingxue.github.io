@@ -15,6 +15,7 @@ redirect_from:
 毕京学，山东建筑大学项目研究员/副教授，硕士生导师，中国电子科技集团公司第五十四研究所卫星导航系统与装备技术国家重点实验室博士后，中国测绘学会矿山测量专业委员会委员、《导航定位与授时》青年编委/专栏主编、《无线电工程》青年编委，长期从事“北斗+”室内外一体化定位、活动识别、组合导航等方面的科研和教学工作。主持国家自然科学基金青年项目、山东省高等学校青年创新团队发展计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省博士后基金重点资助等10余项，核心参与国家重点研发计划等多项国家级项目，发表学术论文60余篇，其中，第一/通讯作者发表SCI/EI论文18篇、核心论文17篇，中科院1区TOP论文4篇（一作3篇、通讯1篇），第一作者ESI高被引1篇，第一作者中国科协“科技期刊双语传播工程”（2023年度）高质量论文1篇，第一作者中国知网高被引5篇，出版学术著作2部，授权国家发明专利7项、软件著作权10余项。获得中国卫星导航定位科技进步二等奖、山东省自然资源科学技术一等奖各1项。
 ### 科技奖励
 <body class="bg-gray-100 p-8">
+
     <table class="min-w-full bg-white border border-gray-300">
         <thead>
             <tr>
@@ -86,175 +87,33 @@ redirect_from:
     </table>
 </body>
 
-### 个人荣誉
-<body class="bg-gray-100 p-8">
-    <table class="min-w-full bg-white border border-gray-300">
-        <thead>
-            <tr>
-                <th class="py-2 px-4 border-b">序号</th>
-                <th class="py-2 px-4 border-b">荣誉名称</th>
-                <th class="py-2 px-4 border-b">奖励等级</th>
-                <th class="py-2 px-4 border-b">奖励级别</th>
-                <th class="py-2 px-4 border-b">名次</th>
-                <th class="py-2 px-4 border-b">证书号</th>
-                <th class="py-2 px-4 border-b">获奖时间</th>
-                <th class="py-2 px-4 border-b">颁发单位</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="py-2 px-4 border-b">1</td>
-                <td class="py-2 px-4 border-b">2012届优秀毕业生</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2012-06</td>
-                <td class="py-2 px-4 border-b">山东交通学院</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">2</td>
-                <td class="py-2 px-4 border-b">普通高等学校优秀毕业生</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">省级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b">201205910</td>
-                <td class="py-2 px-4 border-b">2012-04-12</td>
-                <td class="py-2 px-4 border-b">山东省人力资源和社会保障厅</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">3</td>
-                <td class="py-2 px-4 border-b">2014年硕士研究生国家奖学金</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">国家级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b">2014年第25847号</td>
-                <td class="py-2 px-4 border-b">2014-12-31</td>
-                <td class="py-2 px-4 border-b">中华人民共和国教育部</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">4</td>
-                <td class="py-2 px-4 border-b">2015届优秀毕业研究生</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2015-04</td>
-                <td class="py-2 px-4 border-b">山东科技大学</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">5</td>
-                <td class="py-2 px-4 border-b">优秀论文</td>
-                <td class="py-2 px-4 border-b">二等</td>
-                <td class="py-2 px-4 border-b">省部级</td>
-                <td class="py-2 px-4 border-b">1/5</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2016-11</td>
-                <td class="py-2 px-4 border-b">2016年全国博士生学术论坛（测绘科学与技术）</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">6</td>
-                <td class="py-2 px-4 border-b">优秀论文</td>
-                <td class="py-2 px-4 border-b">一等</td>
-                <td class="py-2 px-4 border-b">省部级</td>
-                <td class="py-2 px-4 border-b">1/4</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2017-10</td>
-                <td class="py-2 px-4 border-b">2017年全国博士生学术论坛（测绘科学与技术）</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">7</td>
-                <td class="py-2 px-4 border-b">中国矿业大学2018 - 2019学年度优秀创新博士研究生奖学金</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b">2018IV90</td>
-                <td class="py-2 px-4 border-b">2018-11-20</td>
-                <td class="py-2 px-4 border-b">中国矿业大学</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">8</td>
-                <td class="py-2 px-4 border-b">2019年中国矿业大学优秀博士学位论文</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2019-06-14</td>
-                <td class="py-2 px-4 border-b">中国矿业大学</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">9</td>
-                <td class="py-2 px-4 border-b">2019届优秀毕业生</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2019-06</td>
-                <td class="py-2 px-4 border-b">中国矿业大学</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">10</td>
-                <td class="py-2 px-4 border-b">2019年度优秀指导教师奖</td>
-                <td class="py-2 px-4 border-b">一等</td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b">201901107</td>
-                <td class="py-2 px-4 border-b">2020-11-30</td>
-                <td class="py-2 px-4 border-b">山东建筑大学</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">11</td>
-                <td class="py-2 px-4 border-b">2020年度优秀指导教师奖</td>
-                <td class="py-2 px-4 border-b">二等</td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b">202002209</td>
-                <td class="py-2 px-4 border-b">2021-09-14</td>
-                <td class="py-2 px-4 border-b">山东建筑大学</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">12</td>
-                <td class="py-2 px-4 border-b">优秀指导教师[2022年全国大学生测绘学科创新创业智能大赛 - 测绘技能竞赛（测绘程序设计比赛专业组）]</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">省部级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2022-07-27</td>
-                <td class="py-2 px-4 border-b">中国测绘学会</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">13</td>
-                <td class="py-2 px-4 border-b">2022年度优秀指导教师奖</td>
-                <td class="py-2 px-4 border-b">一等</td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2023-06-27</td>
-                <td class="py-2 px-4 border-b">山东建筑大学</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">14</td>
-                <td class="py-2 px-4 border-b">2023年度优秀班主任</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">山东建筑大学</td>
-            </tr>
-            <tr>
-                <td class="py-2 px-4 border-b">15</td>
-                <td class="py-2 px-4 border-b">2023年度优秀指导教师奖</td>
-                <td class="py-2 px-4 border-b">一等</td>
-                <td class="py-2 px-4 border-b">校级</td>
-                <td class="py-2 px-4 border-b">1/1</td>
-                <td class="py-2 px-4 border-b"></td>
-                <td class="py-2 px-4 border-b">2024-08-30</td>
-                <td class="py-2 px-4 border-b">山东建筑大学</td>
-            </tr>
-        </tbody>
-    </table>
-</body>
+### 承担项目
+
+| 序号 | 项目名称                                                     | 项目来源                                                     | 级别   | 执行时间        |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | --------------- |
+| 1    | 基于智能手机WiFi/气压计/IMU的室内三维自适应高精度定位方法    | 科技部  国家自然科学基金青年项目                             | 国家级 | 2021.01-2023.12 |
+| 2    | 室内混合智能定位技术                                         | 科技部  国家重点研发计划                                     | 国家级 | 2016.01-2021.12 |
+| 3    | 特大城市室内外无缝定位信号体制与系统构建                     | 科技部 863计划                                               | 国家级 | 2013.01-2015.12 |
+| 4    | 终端/云端协同的Wi-Fi/蓝牙/地磁指纹库众包更新技术             | 卫星导航系统与装备技术国家重点实验室开放基金                 | 部级   | 2018.09-2019.09 |
+| 5    | 基于众包的Wi-Fi蓝牙地磁指纹库更新技术                        | 山东建筑大学                                                 | 校级   | 2019.09-2024.09 |
+| 6    | 运动行为辅助室内位置精准感知方法                             | 自然资源部重点实验室开放基金                                 | 厅级   | 2020.06-2021.12 |
+| 7    | 钢箱梁节段虚拟拼装、几何形状评价及缆索测试技术               | 山东大学                                                     | 横向   | 2023.06-2024.06 |
+| 8    | 基于视频深度学习的室内人员行为识别和空间位置感知             | 山东省重点实验室开放基金                                     | 厅级   | 2023.07-2025.06 |
+| 9    | 智能手机多传感器融合的室内外连续高精度定位                   | 辽宁省重点实验室开放基金                                     | 厅级   | 2023.09-2025.08 |
+| 10   | 融合北斗/GNSS/IMU/UWB的智能手机室内外无缝精密定位关键技术研究 | 山东省教育厅  山东省高等学校青创团队计划                     | 省级   | 2024.01-2026.12 |
+| 11   | 城市遮蔽空间超宽带稳健厘米级定位关键技术                     | 河北省科技厅  河北省自然科学基金面上项目                     | 省级   | 2024.01-2026.12 |
+| 12   | 室内复杂场景WiFi与MARG智能融合的行人高可用定位关键技术研究   | 山东省科技厅  山东省自然科学基金青年项目                     | 省级   | 2025.01-2027.12 |
+| 13   | 基于WiFi  NGP的室内稳健亚米级三维定位方法                    | 河北省人社厅  河北省燕赵黄金台聚才计划骨干人才项目（博士后平台）（重点资助） | 省级   | 2024.01-2026.12 |
+| 14   | 铁路隧道内外北斗GNSS融合惯性的无缝导航定位                   | 天津市重点实验室开放基金                                     | 厅级   | 2024.04-2025.12 |
+| 15   | 基于超宽带的高精度井下导航定位技术                           | 安徽省重点实验室开放基金                                     | 厅级   | 2024.01-2025.12 |
+| 16   | 城市复杂环境下无人平台高精度导航定位技术                     | 山东图云九天科技有限公司                                     | 横向   | 2024.01-2026.12 |
+| 17   | 室内LED可见光高精度定位关键技术                              | 浙江大学                                                     | 横向   | 2024.03-2024.12 |
+| 18   | 面向无人平台的北斗与激光雷达融合定位技术                     | 淮安易智绘科技有限公司                                       | 横向   | 2024.04-2025.03 |
+| 19   | 北斗/GNSS/三维激光雷达融合的桥梁变形精准检测技术             | 山东大学                                                     | 横向   | 2024.02-2025.08 |
+| 20   | 卫星信号缺失条件下基于UWB的农机可信定位技术                  | 农业农村部农机作业监测与大数据应用重点实验室                 | 厅级   | 2025.01-2025.12 |
+
+
+
 ### 研究方向(Interests)
 
 ***
@@ -306,5 +165,4 @@ redirect_from:
 ###  教学科研奖励 (Honors)
 
 * XXXXXXX
-
 
