@@ -22,7 +22,7 @@ redirect_from:
   
   @media (min-width: 80em) {
     .archive {
-      width: 70%;
+      width: 100%;
     }
   }
 </style>
