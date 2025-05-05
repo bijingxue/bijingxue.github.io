@@ -51,25 +51,26 @@ redirect_from:
 ### 代表论著 (Papers)
 
 #### SCI
-
-| 作者                              | 论文名称                                                     | 第一/通讯作者     | 位次 | 期刊名称                                              | 开检索证明 IF | JCR分区 | 中科院分区       | WOS前5% |
-| --------------------------------- | ------------------------------------------------------------ | ----------------- | ---- | ----------------------------------------------------- | ------------- | ------- | ---------------- | ------- |
-| **Bi J**, Wang Y,  Li X, et al    | [A  novel method of adaptive weighted K-nearest neighbor fingerprint indoor  positioning considering user’s orientation](https://journals.sagepub.com/doi/full/10.1177/1550147718785885) | 第一作者          | 1/6  | International  Journal of Distributed Sensor Networks | 1.9           | Q3      | 4区              | 否      |
-| **Bi J**, Wang Y, Li X， et al    | [An  Adaptive Weighted KNN Positioning Method Based on Omnidirectional Fingerprint  Database and Twice Affinity Propagation Clustering](https://www.mdpi.com/1424-8220/18/8/2502) | 第一作者          | 1/6  | Sensors                                               |               | Q2      | 3区              | 否      |
-| **Bi J**, Wang Y,  Li Z, et al    | [Fast  Radio Map Construction by using Adaptive Path Loss Model Interpolation in  Large-Scale Building](https://www.mdpi.com/1424-8220/19/3/712) | 第一作者          | 1/7  | Sensors                                               |               | Q2      | 3区              | 否      |
-| Cao H, Wang Y,  **Bi J**, et al   | [Indoor  Positioning Method Using WiFi RTT Based on LOS Identification and Range  Calibration](https://www.mdpi.com/2220-9964/9/11/627) | 唯一通讯作者      | 3/6  | ISPRS  International Journal of Geo-Information       |               | Q2      | 3区              | 否      |
-| **Bi J**, Huang L,  Cao H, et al  | [Improved  Indoor Fingerprinting Localization Method Using Clustering Algorithm and  Dynamic Compensation](https://www.mdpi.com/2220-9964/10/9/613) | 第一/唯一通讯作者 | 1/7  | ISPRS  International Journal of Geo-Information       |               | Q2      | 3区              | 否      |
-| **Bi J**, Cao H,  Wang Y, et al   | [DBSCAN  and TD integrated Wi-Fi positioning algorithm](https://www.mdpi.com/2072-4292/14/2/297) | 第一作者          | 1/7  | Remote  Sensing                                       | 5.349         | Q1      | 2区TOP（发表年） | 否      |
-| **Bi J**, Wang Y, Yu B， et al    | [Supplementary  open dataset for WiFi indoor localization based on received signal strength](https://link.springer.com/article/10.1186/s43020-022-00086-y) | 第一作者          | 1/6  | Satellite  Navigation                                 | 11.2          | Q1      | 1区              | 是      |
-| Cao H, Wang Y,  **Bi J**, et al   | [Robust  Heading Estimation Algorithm for Android Smartphones](https://ieeexplore.ieee.org/abstract/document/10032101/) | 唯一通讯作者      | 3/5  | IEEE  Transactions on Instrumentation and Measurement | 5.6           | Q1      | 2区TOP           | 否      |
-| **Bi J**, Zhao M,  Yao G, et al.  | [PSOSVRPos:  WiFi indoor positioning using SVR optimized by PSO](https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798) | 第一作者          | 1/7  | Expert  Systems with Applications                     | 8.5           | Q1      | 1区TOP           | 否      |
-| Cao H, Wang Y,  **Bi J**, et al   | [LOS  compensation and trusted NLOS recognition assisted WiFi RTT indoor  positioning algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0957417423033699) | 唯一通讯作者      | 3/7  | Expert  Systems with Applications                     | 7.5           | Q1      | 1区TOP           | 否      |
-| **Bi J**, Wang J,  Hong C, et al  | [Inverse  Distance Weight Assisted Particle Swarm Optimized Indoor Localization for  Smartphone](https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068) | 第一作者          | 1/10 | Applied  Soft Computing                               | 7.2           | Q1      | 1区TOP           | 否      |
-| **Bi J**, Zhao M,  Zheng G, et al | [Exploiting  High-Precision AoA Estimation Method using CSI from a Single WiFi Station](https://www.sciencedirect.com/science/article/abs/pii/S0165168424003700) | 第一作者          | 1/10 | Signal  Processing                                    | 3.4           | Q1      | 2区              | 否      |
-| **Bi J**, Wang J,  Yu B, et al    | [Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer](https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190) | 第一作者          | 1/8  | Engineering  Applications of Artificial Intelligence  | 7.5           | Q1      | 1区              | 是      |
+<table>
+  <tr>
+    <td><img src="../images/image1.png" alt="图片1" width="400"></td>
+      <td ><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798">PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</a></td>
+  </tr>
+  <tr>
+    <td><img src="../images/image2.png" alt="图片2" width="400"></td>
+    <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td>
+  </tr>
+     <tr>
+    <td><img src="../images/image3.png" alt="图片2" width="400"></td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td>
+  </tr>
+         <tr>
+    <td><img src="../images/image4.png" alt="图片2" width="400"></td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td>
+  </tr>
+</table>
 
 ***
-
 #### EI
 
 | 作者                           | 论文名称                                  | 第一/通讯作者 | 期刊名称                 |
