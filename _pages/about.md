@@ -37,27 +37,27 @@ redirect_from:
 
 ### 代表论著 (Papers)
 
-#### SCI (5篇代表作)
+#### SCI期刊论文 (5篇代表作)
 
 <table>
      <tr>
-    <td><img src="../images/image3.png" alt="图片2" width="200"></td>
+    <td><img src="../images/image3.png" alt="图片2" width="500"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
   </tr>
      <tr>
-    <td><img src="../images/image5.png" alt="图片2" width="200"></td>
-    <td><a href="www.sciencedirect.com/science/article/pii/S0957417423033699">LOS compensation and trusted NLOS recognition assisted WiFi RTT indoor positioning algorithm</a></td><td>唯一通讯作者</td><td>IF:7.5</td><td>一区TOP</td><td>2024-01-13</td>
+    <td><img src="../images/image5.png" alt="图片2" width="500"></td>
+    <td><a href="www.sciencedirect.com/science/article/pii/S0957417423033699">LOS compensation and trusted NLOS recognition assisted WiFi RTT indoor positioning algorithm</a></td><td>唯一通讯作者</td><td>IF:8.5</td><td>一区TOP</td><td>2024-01-13</td>
   </tr>
   <tr>
-    <td><img src="../images/image1.png" alt="图片1" width="200"></td>
+    <td><img src="../images/image1.png" alt="图片1" width="500"></td>
       <td ><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798">PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</a></td><td>第一作者</td><td>IF:8.5</td><td>一区TOP</td><td>2023-04-14</td>
   </tr>
-  <tr>
-    <td><img src="../images/image4.png" alt="图片2" width="200"></td>
+    <tr>
+    <td><img src="../images/image4.png" alt="图片2" width="500" height ="200"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>IF:7.5</td><td>一区</td><td>2023-04-14</td>
   </tr>
   <tr>
-    <td><img src="../images/image2.png" alt="图片2" width="200"></td>
+    <td><img src="../images/image2.png" alt="图片2" width="500"></td>
     <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td><td>第一作者</td><td>IF:11.2</td><td>一区</td><td>2022-11-18</td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ redirect_from:
 
 ***
 
-#### EI
+#### EI期刊论文
 
 | 论文名称                                  | 作者                           | 第一/通讯作者 | 期刊名称                 |
 | ----------------------------------------- | ------------------------------ | ------------- | ------------------------ |
@@ -78,7 +78,7 @@ redirect_from:
 
 ***
 
-#### 中文核心
+#### 中文核心论文
 
 | 作者                    | 论文名称                                       | 第一/通讯作者 | 期刊名称           |
 | ----------------------- | ---------------------------------------------- | ------------- | ------------------ |
