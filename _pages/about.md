@@ -67,7 +67,7 @@ redirect_from:
 
 #### EI期刊论文
 
-<table style="width: 100%; border-collapse: collapse; font-size: 14px; border: 1px solid #333; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">作者</th>
@@ -114,7 +114,7 @@ redirect_from:
 
 #### 中文核心论文
 
-<table style="width: 100%; border-collapse: collapse; font-size: 14px; border: 1px solid #333; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">作者</th>
