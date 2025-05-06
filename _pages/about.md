@@ -37,24 +37,28 @@ redirect_from:
 
 ### 代表论著 (Papers)
 
-#### SCI
+#### SCI (5篇代表作)
 
 <table>
+     <tr>
+    <td><img src="../images/image3.png" alt="图片2" width="200"></td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
+  </tr>
+     <tr>
+    <td><img src="../images/image5.png" alt="图片2" width="200"></td>
+    <td><a href="www.sciencedirect.com/science/article/pii/S0957417423033699">LOS compensation and trusted NLOS recognition assisted WiFi RTT indoor positioning algorithm</a></td><td>唯一通讯作者</td><td>IF:7.5</td><td>一区TOP</td><td>2024-01-13</td>
+  </tr>
   <tr>
     <td><img src="../images/image1.png" alt="图片1" width="200"></td>
       <td ><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798">PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</a></td><td>第一作者</td><td>IF:8.5</td><td>一区TOP</td><td>2023-04-14</td>
   </tr>
   <tr>
-    <td><img src="../images/image2.png" alt="图片2" width="200"></td>
-    <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td><td>第一作者</td><td>IF:11.2</td><td>一区</td><td>2022-11-18</td>
-  </tr>
-     <tr>
-    <td><img src="../images/image3.png" alt="图片2" width="200"></td>
-    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
-  </tr>
-         <tr>
     <td><img src="../images/image4.png" alt="图片2" width="200"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>IF:7.5</td><td>一区</td><td>2023-04-14</td>
+  </tr>
+  <tr>
+    <td><img src="../images/image2.png" alt="图片2" width="200"></td>
+    <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td><td>第一作者</td><td>IF:11.2</td><td>一区</td><td>2022-11-18</td>
   </tr>
 </table>
 
@@ -97,33 +101,5 @@ redirect_from:
 * **2023年** 获得2022年度山东省自然资源厅“山东省自然资源科学技术奖”一等奖，项目为《宽基线倾斜影像智能匹配及实景三维重建应用》，排名第7。
 * **2024年** 获得2023年度山东省机械工业科学技术协会“山东省机械工业科学技术奖”一等奖，项目为《多模态智能终端行人航位推算关键技术》，排名第2。
 * **2024年** 获得2023年度山东省机械工业科学技术协会“山东省机械工业科学技术奖”二等奖，项目为《基于无线信号的室内精密定位优化研究》，排名第1。
-* **2024年** 获得2023年度山东省人工智能学会“山东省人工智能科学技术奖”二等奖，项目为《影像智能匹配及实景三维重建》，排名第4。
-* **2019年** 获得“中国矿业大学 2019届优秀毕业生”称号，校级，排名1/1。
-* **2020年** 获得“山东建筑大学 2019年度优秀指导教师奖”一等奖，校级，证书号：201901107，获奖时间：2020年11月30日，排名1/1。
-* **2021年** 获得“山东建筑大学 2020年度优秀指导教师奖”二等奖，校级，证书号：202002209，获奖时间：2021年9月14日，排名1/1。
-* **2022年** 获得“中国测绘学会 优秀指导教师”荣誉（2022年全国大学生测绘学科创新创业智能大赛-测绘技能竞赛-测绘程序设计比赛专业组），省部级，排名1/1，获奖时间：2022年7月27日。
-* **2023年** 获得“山东建筑大学 2022年度优秀指导教师奖”一等奖，校级，获奖时间：2023年6月27日，排名1/1。
-* **2023年** 获得“山东建筑大学 2023年度优秀班主任”称号，校级，排名1/1。
-* **2024年** 获得“山东建筑大学 2023年度优秀指导教师奖”一等奖，校级，获奖时间：2024年8月30日，排名1/1。
-* **2019年** 指导学生参加 *The Sixth International Conference on Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS) 室内定位比赛（蓝牙组）*，获得 **First Prize** 奖项。
-* **2022年** 指导学生参加 *全国大学生测绘学科创新创业智能大赛-测绘技能竞赛（测绘程序设计比赛专业组）*，获得 特等奖。
-* **2022年** 指导学生参加 *全国大学生测绘学科创新创业智能大赛-测绘技能竞赛 专业组团体总成绩评比*，获得 特等奖。
-* **2022年** 指导学生撰写论文《室内多场景下 UWB 测距和定位精度分析》，参加 *全国大学生测绘学科创新创业智能大赛-科技论文竞赛*，获得 二等奖。
-* **2023年** 指导学生参加 *第十八届“挑战杯”大学生课外学术科技竞赛*，获得 三等奖。
-* **2023年** 指导学生撰写论文《基于信道状态信息的人体行为识别系统研究》，参加 *全国大学生测绘学科创新创业智能大赛-科技论文竞赛*，获得 一等奖。
-* **2024年** 指导学生开发作品《基于信道状态信息的人体行为识别系统》，参加 *全国大学生测绘学科创新创业智能大赛—开发设计竞赛*，获得 二等奖。
-* **2024年** 指导学生参加 *全国大学生测绘学科创新创业智能大赛—机载激光雷达虚拟仿真比赛*，获得 二等奖。
-* **2024年** 指导学生参加 *第十六届山东省大学生科技节测量技能大赛（虚拟仿真数字测图·专业赛道）*，获得 三等奖。
-* **2020年** 指导学生获得山东建筑大学优秀学生荣誉称号。
-* **2020年** 指导学生撰写学士学位论文《基于贝叶斯估计的室内WiFi指纹定位方法研究》，获评优秀学士学位论文。
-* **2021年** 指导学生获得山东省高等学校优秀学生荣誉称号。
-* **2022年** 指导学生获得山东建筑大学优秀毕业生荣誉称号。
-* **2022年** 指导学生获得山东省普通高等学校优秀毕业生荣誉称号。
-* **2023年** 指导学生3人分别获得山东省普通高等学校优秀毕业生荣誉称号。
-* **2023年** 指导学生撰写学士学位论文《基于信道状态信息的人体行为识别研究》，获评优秀学士学位论文。
-* **2024年** 指导学生撰写学士学位论文《基于支持向量回归与温度补偿气压的室内高度估计方法》，获评优秀学士学位论文。
-* **2024年** 指导学生获得山东省普通高等学校优秀毕业生荣誉称号。
-* **2024年** 指导学生获得山东省普通高等学校优秀班干部荣誉称号。
-* **2024年** 指导学生在山东省研究生创新成果评选中，凭借《无线信号定位定向关键技术》成果获奖。
 
 
