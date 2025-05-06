@@ -39,7 +39,7 @@ redirect_from:
 
 #### SCI期刊论文 (5篇代表作 平均影响因子：8.58)
 
-<table >
+<table>
      <tr>
     <td><img src="../images/image3.png" alt="图片2" width="600"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
@@ -123,9 +123,9 @@ redirect_from:
     <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
   </tr>
   <tr>
-    <td>室内典型场景下UWB基站共面部署研究</td>
-    <td><b>毕京学</b>, 李世卿, 刘家良, 等</td>
-    <td>第一作者</td>
+    <td style ="width=50px;">室内典型场景下UWB基站共面部署研究</td>
+    <td style ="width=50px;"><b>毕京学</b>, 李世卿, 刘家良, 等</td>
+    <td style ="width=50px;">第一作者</td>
     <td>测绘科学</td>
     <td></td>
   </tr>
@@ -196,76 +196,3 @@ redirect_from:
 * **2024年** 获得2023年度山东省机械工业科学技术协会“山东省机械工业科学技术奖”一等奖，项目为《多模态智能终端行人航位推算关键技术》，排名第2。
 * **2024年** 获得2023年度山东省机械工业科学技术协会“山东省机械工业科学技术奖”二等奖，项目为《基于无线信号的室内精密定位优化研究》，排名第1。
 
-<head>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 95%;
-      margin: 20px auto;
-      font-family: Arial, sans-serif;
-    }
-    th, td {
-      border: 1px solid #666;
-      padding: 10px;
-      text-align: center;
-    }
-    th {
-      background-color: #f2f2f2;
-      font-weight: bold;
-    }
-    tr:nth-child(even) {
-      background-color: #f9f9f9;
-    }
-    tr:hover {
-      background-color: #e0f7fa;
-    }
-  </style>
-</head>
-<body>
-
-<table>
-  <tr>
-    <th>论文名称</th>
-    <th>作者</th>
-    <th>第一/通讯作者</th>
-    <th>期刊名称</th>
-    <th>备注</th>
-  </tr>
-  <tr>
-    <td>基于随机森林回归的智能手机用步长估计模型</td>
-    <td><b>毕京学</b>, 汪云甲, 齐红霞, 等</td>
-    <td>第一作者</td>
-    <td>中国惯性技术学报</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>面向智能手机的改进有限状态机步态探测算法</td>
-    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
-    <td>第一作者</td>
-    <td>武汉大学学报(信息科学版)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>顾及BLE信标几何优化的室内测距定位方法</td>
-    <td><b>毕京学</b>, 汪云甲, 宁一鹏, 等</td>
-    <td>第一作者</td>
-    <td>中国矿业大学学报</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>智能手机Wi-Fi/PDR室内混合定位优化问题研究</td>
-    <td><b>毕京学</b></td>
-    <td>第一作者</td>
-    <td>测绘学报</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>后向窗口滤波优化的多行人多活动计步方法</td>
-    <td><b>毕京学</b>, 卢文珂, 王建辉, 等</td>
-    <td>第一作者</td>
-    <td>中国惯性技术学报</td>
-    <td></td>
-  </tr>
-</table>
-
-</body>
