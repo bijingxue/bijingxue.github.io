@@ -94,7 +94,7 @@ redirect_from:
 
 <table>
       <tr>
-    <td><img src="../images/image4.png" alt="图片2" width="600"></td>
+    <td><img src="../images/image4.png" alt="图片2" width="600 height =400"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>IF:7.5</td><td>一区TOP</td><td>2025-04-03</td>
   </tr>
      <tr>
