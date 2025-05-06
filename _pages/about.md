@@ -23,7 +23,7 @@ redirect_from:
 * 活动感知
 * 实景三维
 
-### 三 🔬科研项目(Fundings)
+### 🔬科研项目(Fundings)
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <thead>
