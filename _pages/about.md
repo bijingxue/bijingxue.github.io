@@ -37,27 +37,27 @@ redirect_from:
 
 ### 代表论著 (Papers)
 
-#### SCI期刊论文 (5篇代表作)
+#### SCI期刊论文 (5篇代表作 平均影响因子：8.58)
 
 <table>
      <tr>
-    <td><img src="../images/image3.png" alt="图片2" width="500"></td>
+    <td><img src="../images/image3.png" alt="图片2" width="600"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
   </tr>
      <tr>
-    <td><img src="../images/image5.png" alt="图片2" width="500"></td>
+    <td><img src="../images/image5.png" alt="图片2" width="600"></td>
     <td><a href="www.sciencedirect.com/science/article/pii/S0957417423033699">LOS compensation and trusted NLOS recognition assisted WiFi RTT indoor positioning algorithm</a></td><td>唯一通讯作者</td><td>IF:8.5</td><td>一区TOP</td><td>2024-01-13</td>
   </tr>
   <tr>
-    <td><img src="../images/image1.png" alt="图片1" width="500"></td>
+    <td><img src="../images/image1.png" alt="图片1" width="600"></td>
       <td ><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798">PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</a></td><td>第一作者</td><td>IF:8.5</td><td>一区TOP</td><td>2023-04-14</td>
   </tr>
     <tr>
-    <td><img src="../images/image4.png" alt="图片2" width="500" height ="200"></td>
+    <td><img src="../images/image4.png" alt="图片2" width="600"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>IF:7.5</td><td>一区</td><td>2023-04-14</td>
   </tr>
   <tr>
-    <td><img src="../images/image2.png" alt="图片2" width="500"></td>
+    <td><img src="../images/image2.png" alt="图片2" width="600"></td>
     <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td><td>第一作者</td><td>IF:11.2</td><td>一区</td><td>2022-11-18</td>
   </tr>
 </table>
@@ -67,31 +67,125 @@ redirect_from:
 
 #### EI期刊论文
 
-| 论文名称                                  | 作者                           | 第一/通讯作者 | 期刊名称                 |
-| ----------------------------------------- | ------------------------------ | ------------- | ------------------------ |
-| 基于随机森林回归的智能手机用步长估计模型  | **毕京学**,汪云甲,齐红霞,等    | 第一作者      | 中国惯性技术学报         |
-| 面向智能手机的改进有限状态机步态探测算法  | **毕京学**,甄杰,姚国标,等      | 第一作者      | 武汉大学学报(信息科学版) |
-| 顾及BLE信标几何优化的室内测距定位方法     | **毕京学**,汪云甲,宁一鹏,等    | 第一作者      | 中国矿业大学学报         |
-| 智能手机Wi-Fi/PDR室内混合定位优化问题研究 | **毕京学**                     | 第一作者      | 测绘学报                 |
-| 后向窗口滤波优化的多行人多活动计步方法    | **毕京学**，卢文珂，王建辉，等 | 第一作者      | 中国惯性技术学报         |
-
-
-***
+<table>
+  <tr>
+    <th>论文名称</th>
+    <th>作者</th>
+    <th>第一/通讯作者</th>
+    <th>期刊名称</th>
+    <th>备注</th>
+  </tr>
+  <tr>
+    <td>基于随机森林回归的智能手机用步长估计模型</td>
+    <td><b>毕京学</b>, 汪云甲, 齐红霞, 等</td>
+    <td>第一作者</td>
+    <td>中国惯性技术学报</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>面向智能手机的改进有限状态机步态探测算法</td>
+    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
+    <td>第一作者</td>
+    <td>武汉大学学报(信息科学版)</td>
+    <td>知网高被引</td>
+  </tr>
+  <tr>
+    <td>顾及BLE信标几何优化的室内测距定位方法</td>
+    <td><b>毕京学</b>, 汪云甲, 宁一鹏, 等</td>
+    <td>第一作者</td>
+    <td>中国矿业大学学报</td>
+    <td>知网高被引，入选中国科协“科技期刊双语传播工程”</td>
+  </tr>
+  <tr>
+    <td>智能手机Wi-Fi/PDR室内混合定位优化问题研究</td>
+    <td><b>毕京学</b></td>
+    <td>第一作者</td>
+    <td>测绘学报</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>后向窗口滤波优化的多行人多活动计步方法</td>
+    <td><b>毕京学</b>, 卢文珂, 王建辉, 等</td>
+    <td>第一作者</td>
+    <td>中国惯性技术学报</td>
+    <td></td>
+  </tr>
+</table>
 
 #### 中文核心论文
 
-| 作者                    | 论文名称                                       | 第一/通讯作者 | 期刊名称           |
-| ----------------------- | ---------------------------------------------- | ------------- | ------------------ |
-| 毕京学,李世卿,刘家良,等 | 室内典型场景下UWB基站共面部署研究              | 第一作者      | 测绘科学           |
-| 毕京学,李世卿,张新宇,等 | 顾及设备高度差的超宽带测距定位精度分析         | 第一作者      | 测绘科学           |
-| 毕京学,汪云甲,纪冬华,等 | RSS最小值动态补偿的室内WKNN指纹定位方法        | 第一作者      | 测绘科学           |
-| 毕京学,汪云甲,曹鸿基,等 | 全向指纹和Wi-Fi感知概率的WKNN定位方法          | 第一作者      | 测绘科学           |
-| 毕京学,汪云甲,曹鸿基,等 | 一种基于全向指纹库的WiFi室内定位方法           | 第一作者      | 测绘通报           |
-| 毕京学,甄杰,汪云甲,等   | 高斯函数定权的改进KNN室内定位方法              | 第一作者      | 测绘通报           |
-| 毕京学,汪云甲,甄杰      | 一种基于手机端的室内外场景识别方法及其初步实验 | 第一作者      | 地理与地理信息科学 |
-| 毕京学,甄杰,郭英        | Android手机GPS和A-GPS定位精度分析              | 第一作者      | 测绘通报           |
-| 毕京学,郭英,张鼎凯,等   | 基于CORS的高精度实时坐标转换方法探究           | 第一作者      | 测绘科学           |
-
+<table>
+  <tr>
+    <th>论文名称</th>
+    <th>作者</th>
+    <th>第一/通讯作者</th>
+    <th>期刊名称</th>
+    <th>备注</th>
+  </tr>
+  <tr>
+    <td>室内典型场景下UWB基站共面部署研究</td>
+    <td><b>毕京学</b>, 李世卿, 刘家良, 等</td>
+    <td>第一作者</td>
+    <td>测绘科学</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>顾及设备高度差的超宽带测距定位精度分析</td>
+    <td><b>毕京学</b>, 李世卿, 张新宇, 等</td>
+    <td>第一作者</td>
+    <td>测绘科学</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RSS最小值动态补偿的室内WKNN指纹定位方法</td>
+    <td><b>毕京学</b>, 汪云甲, 纪冬华, 等</td>
+    <td>第一作者</td>
+    <td>测绘科学</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>全向指纹和Wi-Fi感知概率的WKNN定位方法</td>
+    <td><b>毕京学</b>, 汪云甲, 曹鸿基, 等</td>
+    <td>第一作者</td>
+    <td>测绘科学</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>一种基于全向指纹库的WiFi室内定位方法</td>
+    <td><b>毕京学</b>, 汪云甲, 曹鸿基, 等</td>
+    <td>第一作者</td>
+    <td>测绘通报</td>
+    <td>知网高被引</td>
+  </tr>
+  <tr>
+    <td>高斯函数定权的改进KNN室内定位方法</td>
+    <td><b>毕京学</b>, 甄杰, 汪云甲, 等</td>
+    <td>第一作者</td>
+    <td>测绘通报</td>
+    <td>知网高被引</td>
+  </tr>
+  <tr>
+    <td>一种基于手机端的室内外场景识别方法及其初步实验</td>
+    <td><b>毕京学</b>, 汪云甲, 甄杰</td>
+    <td>第一作者</td>
+    <td>地理与地理信息科学</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Android手机GPS和A-GPS定位精度分析</td>
+    <td><b>毕京学</b>, 甄杰, 郭英</td>
+    <td>第一作者</td>
+    <td>测绘通报</td>
+    <td>知网高被引</td>
+  </tr>
+  <tr>
+    <td>基于CORS的高精度实时坐标转换方法探究</td>
+    <td><b>毕京学</b>, 郭英, 张鼎凯, 等</td>
+    <td>第一作者</td>
+    <td>测绘科学</td>
+    <td></td>
+  </tr>
+</table>
   
 
 ###  教学科研奖励 (Honors)
