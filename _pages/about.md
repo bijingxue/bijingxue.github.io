@@ -67,13 +67,13 @@ redirect_from:
 
 #### EI期刊论文
 
-<table>
+<table style="width: 90%; border-collapse: collapse; font-size: 14px; border: 1px solid #333; text-align: center;">
   <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
-    <th>作者</th>
-    <th>第一/通讯作者</th>
-    <th>期刊名称</th>
-    <th>备注</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">第一/通讯作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
   </tr>
   <tr>
     <td>基于随机森林回归的智能手机用步长估计模型</td>
@@ -114,13 +114,13 @@ redirect_from:
 
 #### 中文核心论文
 
-<table>
+<table style="width: 90%; border-collapse: collapse; font-size: 14px; border: 1px solid #333; text-align: center;">
   <tr>
-    <th>论文名称</th>
-    <th>作者</th>
-    <th>第一/通讯作者</th>
-    <th>期刊名称</th>
-    <th>备注</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">第一/通讯作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
   </tr>
   <tr>
     <td>室内典型场景下UWB基站共面部署研究</td>
