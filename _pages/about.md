@@ -92,7 +92,7 @@ redirect_from:
 
 #### SCI期刊论文 (5篇代表作 平均影响因子：8.58)
 
-<table style="font-size: 16px";>
+<table>
      <tr>
     <td><img src="../images/image3.png" alt="图片2" width="600"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
