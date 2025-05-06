@@ -9,13 +9,13 @@ redirect_from:
 
 ---
 
-### 个人介绍 (About Me)
+###  👨‍🏫个人介绍 (About Me)
 
 ***
 
-毕京学，山东建筑大学项目研究员/副教授，山东省青创团队带头人，长期从事室内外无缝精密定位、活动感知、实景三维等方面的研究工作，以第一/通讯作者发表高水平论文30余篇，其中，ESI高被引1篇，中科院1区TOP 5篇、2区TOP 3篇，EI 6篇，中国科协科技期刊双语传播工程1篇,中国知网高被引论文5篇；出版学术著作2部；授权发明专利14项（首位6项，美国专利1项）；获得卫星导航定位科技进步二等奖2项、山东省机械工业科学技术一等奖1项、山东省人工智能科技进步二等奖1项。主持国家自然科学基金青年项目、山东省青创团队计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省燕赵黄金台聚才计划骨干人才项目重点资助等纵向科研项目，核心参与国家重点研发计划、“863”计划等国家级项目。
+山东建筑大学项目研究员/副教授，中国电子科技集团公司第五十四研究所综合时空网络与装备技术全国重点实验室（原卫星导航系统与装备技术国家重点实验室）博士后，山东省青创团队带头人，长期从事室内外无缝精密定位、活动感知、实景三维等方面的研究工作，以第一/通讯作者发表高水平论文30余篇，其中，ESI高被引1篇，中科院1区(TOP)5篇、2区(TOP)3篇，EI 6篇，中国科协科技期刊双语传播工程1篇,中国知网高被引论文5篇；出版学术著作2部；授权发明专利14项（首位6项，美国专利1项）；获得卫星导航定位科技进步二等奖2项、山东省机械工业科学技术一等奖1项、山东省人工智能科技进步二等奖1项。主持国家自然科学基金青年项目、山东省青创团队计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省燕赵黄金台聚才计划骨干人才项目重点资助等纵向科研项目，核心参与国家重点研发计划、“863”计划等国家级项目。
 
-### 研究方向(Interests)
+###  🎓研究方向(Interests)
 
 ***
 
@@ -23,7 +23,7 @@ redirect_from:
 * 活动感知
 * 实景三维
 
-### 科研项目(Fundings)
+### 三 🔬科研项目(Fundings)
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <thead>
@@ -88,11 +88,15 @@ redirect_from:
   </tbody>
 </table>
 
-### 代表论著 (Papers)
+### 📚代表论著 (Papers)
 
-#### SCI期刊论文 (5篇代表作 平均影响因子：8.58)
+#### 🚀SCI期刊论文 (5篇代表作 平均影响因子：8.58)
 
 <table>
+    <tr>
+    <td><img src="../images/image1.png" alt="图片1" width="600"></td>
+      <td ><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798">PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</a><p style="color:red;">(ESI高被引)</p></td><td>第一作者</td><td>IF:8.5</td><td>一区TOP</td><td>2025-04-03</td>
+  </tr>
      <tr>
     <td><img src="../images/image3.png" alt="图片2" width="600"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
@@ -101,24 +105,20 @@ redirect_from:
     <td><img src="../images/image5.png" alt="图片2" width="600"></td>
     <td><a href="www.sciencedirect.com/science/article/pii/S0957417423033699">LOS compensation and trusted NLOS recognition assisted WiFi RTT indoor positioning algorithm</a></td><td>唯一通讯作者</td><td>IF:8.5</td><td>一区TOP</td><td>2024-01-13</td>
   </tr>
-  <tr>
-    <td><img src="../images/image1.png" alt="图片1" width="600"></td>
-      <td ><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798">PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</a><p style="color:red;">(ESI高被引)</p></td><td>第一作者</td><td>IF:8.5</td><td>一区TOP</td><td>2023-04-14</td>
-  </tr>
     <tr>
     <td><img src="../images/image4.png" alt="图片2" width="600"></td>
-    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>IF:7.5</td><td>一区</td><td>2023-04-14</td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>IF:7.5</td><td>一区TOP</td><td>2023-04-14</td>
   </tr>
   <tr>
     <td><img src="../images/image2.png" alt="图片2" width="600"></td>
-    <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td><td>第一作者</td><td>IF:11.2</td><td>一区</td><td>2022-11-18</td>
+    <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td><td>第一作者</td><td>IF:11.2</td><td>一区TOP</td><td>2022-11-18</td>
   </tr>
 </table>
 
 
 ***
 
-#### EI期刊论文
+#### 🛠️EI期刊论文
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
@@ -131,43 +131,8 @@ redirect_from:
     <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
   </tr>
   <tr>
+  <tr>
     <td style ="width:5px;">1</td>
-    <td style ="width:250px;">基于随机森林回归的智能手机用步长估计模型</td>
-    <td style ="width:80px;"><b>毕京学</b>, 汪云甲, 齐红霞, 等</td>
-    <td style ="width:80px;">第一作者</td>
-    <td style ="width:120px;">中国惯性技术学报</td>
-    <td  style ="width:100px;">2020-04-15</td>
-    <td></td>
-  </tr>
-  <tr>
-        <td style ="width:5px;">1</td>
-    <td>面向智能手机的改进有限状态机步态探测算法</td>
-    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
-    <td>第一作者</td>
-    <td>武汉大学学报(信息科学版)</td>
-        <td  style ="width:100px;">2020-06-15</td>
-    <td>知网高被引</td>
-  </tr>
-  <tr>
-    <td style ="width:5px;">2</td>
-    <td>顾及BLE信标几何优化的室内测距定位方法</td>
-    <td><b>毕京学</b>, 汪云甲, 宁一鹏, 等</td>
-    <td>第一作者</td>
-    <td>中国矿业大学学报</td>
-          <td  style ="width:100px;">2021-03-15</td>
-    <td>知网高被引，入选中国科协“科技期刊双语传播工程”</td>
-  </tr>
-  <tr>
-    <td style ="width:5px;">3</td>
-    <td>智能手机Wi-Fi/PDR室内混合定位优化问题研究</td>
-    <td><b>毕京学</b></td>
-    <td>第一作者</td>
-    <td>测绘学报</td>
-          <td  style ="width:100px;">2021-10-15</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td style ="width:5px;">4</td>
     <td>后向窗口滤波优化的多行人多活动计步方法</td>
     <td><b>毕京学</b>, 卢文珂, 王建辉, 等</td>
     <td>第一作者</td>
@@ -175,9 +140,44 @@ redirect_from:
           <td  style ="width:100px;">2024-09-30</td>
     <td></td>
   </tr>
+      <td style ="width:5px;">2</td>
+    <td>智能手机Wi-Fi/PDR室内混合定位优化问题研究</td>
+    <td><b>毕京学</b></td>
+    <td>第一作者</td>
+    <td>测绘学报</td>
+          <td  style ="width:100px;">2021-10-15</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td style ="width:5px;">3</td>
+    <td>顾及BLE信标几何优化的室内测距定位方法</td>
+    <td><b>毕京学</b>, 汪云甲, 宁一鹏, 等</td>
+    <td>第一作者</td>
+    <td>中国矿业大学学报</td>
+          <td  style ="width:100px;">2021-03-15</td>
+    <td>知网高被引，入选中国科协“科技期刊双语传播工程”</td>
+  </tr>
+    <tr>
+        <td style ="width:5px;">4</td>
+    <td>面向智能手机的改进有限状态机步态探测算法</td>
+    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
+    <td>第一作者</td>
+    <td>武汉大学学报(信息科学版)</td>
+        <td  style ="width:100px;">2020-06-15</td>
+    <td>知网高被引</td>
+  </tr>
+    <tr>
+    <td style ="width:5px;">5</td>
+    <td style ="width:250px;">基于随机森林回归的智能手机用步长估计模型</td>
+    <td style ="width:80px;"><b>毕京学</b>, 汪云甲, 齐红霞, 等</td>
+    <td style ="width:80px;">第一作者</td>
+    <td style ="width:120px;">中国惯性技术学报</td>
+    <td  style ="width:100px;">2020-04-15</td>
+    <td></td>
+  </tr>
 </table>
 
-#### 中文核心论文
+#### 📖中文核心论文
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
@@ -273,7 +273,7 @@ redirect_from:
 </table>
   
 
-###  教学科研奖励 (Honors)
+###  🏆教学科研奖励 (Honors)
 
 * **2024年** 获得2023年度中国卫星导航定位协会“卫星导航定位科技进步奖”二等奖，项目为《室内外复杂场景高精度无缝定位关键技术及应用》，排名第3。
 * **2020年** 获得2019年度中国卫星导航定位协会“卫星导航定位科技进步奖”二等奖，项目为《煤矿区多源增强GNSS无缝定位关键技术及其应用》，排名第5。
