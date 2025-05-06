@@ -67,7 +67,7 @@ redirect_from:
 
 #### EI期刊论文
 
-<table style="width: 90%; border-collapse: collapse; font-size: 14px; border: 1px solid #333; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; font-size: 14px; border: 1px solid #333; text-align: center;">
   <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">作者</th>
@@ -76,10 +76,10 @@ redirect_from:
     <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
   </tr>
   <tr>
-    <td>基于随机森林回归的智能手机用步长估计模型</td>
-    <td><b>毕京学</b>, 汪云甲, 齐红霞, 等</td>
-    <td>第一作者</td>
-    <td>中国惯性技术学报</td>
+    <td style ="width:250px;">基于随机森林回归的智能手机用步长估计模型</td>
+    <td style ="width:100px;"><b>毕京学</b>, 汪云甲, 齐红霞, 等</td>
+    <td style ="width:100px;">第一作者</td>
+    <td style ="width:200px;">中国惯性技术学报</td>
     <td></td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ redirect_from:
 
 #### 中文核心论文
 
-<table style="width: 90%; border-collapse: collapse; font-size: 14px; border: 1px solid #333; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; font-size: 14px; border: 1px solid #333; text-align: center;">
   <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">作者</th>
@@ -123,10 +123,10 @@ redirect_from:
     <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
   </tr>
   <tr>
-    <td style ="width=50px;">室内典型场景下UWB基站共面部署研究</td>
-    <td style ="width=50px;"><b>毕京学</b>, 李世卿, 刘家良, 等</td>
-    <td style ="width=50px;">第一作者</td>
-    <td>测绘科学</td>
+    <td style ="width:250px;">室内典型场景下UWB基站共面部署研究</td>
+    <td style ="width:100px;"><b>毕京学</b>, 李世卿, 刘家良, 等</td>
+    <td style ="width:100px;">第一作者</td>
+    <td style ="width:200px;">测绘科学</td>
     <td></td>
   </tr>
   <tr>
