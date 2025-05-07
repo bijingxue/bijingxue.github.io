@@ -13,7 +13,7 @@ redirect_from:
 
 ***
 
-山东建筑大学项目研究员/副教授，硕士生导师，中国电子科技集团公司第五十四研究所综合时空网络与装备技术全国重点实验室（原卫星导航系统与装备技术国家重点实验室）博士后，山东省青创团队带头人，长期从事室内外无缝精密定位、活动感知、实景三维等方面的研究工作，以第一/通讯作者发表高水平论文30余篇，其中，ESI高被引1篇，中科院1区(TOP)5篇、2区(TOP)3篇，EI 6篇，中国科协科技期刊双语传播工程1篇,中国知网高被引论文5篇；出版学术著作2部；授权发明专利14项（首位6项，美国专利1项）；获得卫星导航定位科技进步二等奖2项、山东省机械工业科学技术一等奖1项、山东省人工智能科技进步二等奖1项。主持国家自然科学基金青年项目、山东省青创团队计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省燕赵黄金台聚才计划骨干人才项目重点资助等纵向科研项目，核心参与国家重点研发计划、“863”计划等国家级项目。
+山东建筑大学项目研究员/副教授、硕士生导师，中国电子科技集团公司第五十四研究所综合时空网络与装备技术全国重点实验室（原卫星导航系统与装备技术国家重点实验室）博士后，山东省青创团队带头人。长期从事室内外无缝精密定位、活动感知、实景三维等方面的研究工作。以第一/通讯作者发表高水平论文30余篇，其中 ESI 高被引1篇，中科院1区 TOP 5篇、2区（TOP）3篇，EI 6篇，中国科协科技期刊双语传播工程1篇，中国知网高被引论文5篇；出版学术著作2部；授权发明专利14项（首位6项，美国专利1项）。获得卫星导航定位科技进步二等奖2项、山东省机械工业科学技术一等奖1项、山东省人工智能科技进步二等奖1项。主持国家自然科学基金青年项目、山东省青创团队计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省燕赵黄金台聚才计划骨干人才项目重点资助等纵向科研项目，核心参与国家重点研发计划、“863”计划等国家级项目。
 
 ###  🎓研究方向(Interests)
 
@@ -25,7 +25,7 @@ redirect_from:
 
 ### 🔬科研项目(Fundings)
 
-<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; font-size: 18px; border: 1px solid #333; text-align: center;">
   <thead>
     <tr>
          <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
@@ -79,7 +79,7 @@ redirect_from:
       <td>主持</td>
     </tr>
     <tr>
-      <td style ="width:5px;">4</td>
+      <td style ="width:5px;">7</td>
       <td>基于WiFi NGP的室内稳健亚米级三维定位方法</td>
       <td>河北省人社厅 河北省燕赵黄金台聚才计划骨干人才项目（博士后平台）（重点资助）</td>
       <td>省级</td>
@@ -120,7 +120,7 @@ redirect_from:
 
 #### 🛠️EI期刊论文
 
-<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; font-size: 18px; border: 1px solid #333; text-align: center;">
   <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
@@ -179,7 +179,7 @@ redirect_from:
 
 #### 📖中文核心论文
 
-<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; font-size: 18px; border: 1px solid #333; text-align: center;">
   <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
@@ -235,7 +235,7 @@ redirect_from:
     <td>知网高被引</td>
   </tr>
   <tr>
-          <td style ="width:5px;"></td>
+          <td style ="width:5px;">6</td>
     <td>高斯函数定权的改进KNN室内定位方法</td>
     <td><b>毕京学</b>, 甄杰, 汪云甲, 等</td>
     <td>第一作者</td>
