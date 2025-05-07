@@ -94,7 +94,7 @@ redirect_from:
 
 #### 🚀SCI期刊论文 (5篇代表作 平均影响因子：8.58)
 
-<table>
+<table style=" font-size: 16px;">
       <tr>
     <td><img src="../images/image4.png" alt="图片2" width="1000px"></td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>IF:7.5</td><td>一区TOP</td><td>2025-04-03</td>
