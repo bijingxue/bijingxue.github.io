@@ -9,13 +9,13 @@ redirect_from:
 
 ---
 
-###  👨‍🏫个人介绍 (About Me)
+##  👨‍🏫个人介绍 (About Me)
 
 ***
 
 <p style=" font-size: 16px;">山东建筑大学项目研究员/副教授，硕士生导师，中国电子科技集团公司第五十四研究所综合时空网络与装备技术全国重点实验室（原卫星导航系统与装备技术国家重点实验室）博士后，山东省青创团队带头人，长期从事室内外无缝精密定位、活动感知、实景三维等方面的研究工作，以第一/通讯作者发表高水平论文30余篇，其中，ESI高被引1篇，中科院1区(TOP)5篇、2区(TOP)3篇，EI 6篇，中国科协科技期刊双语传播工程1篇,中国知网高被引论文5篇；出版学术著作2部；授权发明专利14项（首位6项，美国专利1项）；获得卫星导航定位科技进步二等奖2项、山东省机械工业科学技术一等奖1项、山东省人工智能科技进步二等奖1项。主持国家自然科学基金青年项目、山东省青创团队计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省燕赵黄金台聚才计划骨干人才项目重点资助等纵向科研项目，核心参与国家重点研发计划、“863”计划等国家级项目。</p>
 
-###  🎓研究方向(Interests)
+##  🎓研究方向(Interests)
 
 ***
 <ul style=" font-size: 16px;">
@@ -25,7 +25,7 @@ redirect_from:
 </ul>
 
 
-### 🔬科研项目(Fundings)
+## 🔬科研项目(Fundings)
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <thead>
@@ -90,9 +90,9 @@ redirect_from:
   </tbody>
 </table>
 
-### 📚代表论著 (Papers)
+## 📚代表论著 (Papers)
 
-#### 🚀SCI期刊论文 (5篇代表作 平均影响因子：8.58)
+### 🚀SCI期刊论文 (5篇代表作 平均影响因子：8.58)
 
 <table style=" font-size: 16px;">
       <tr>
@@ -120,7 +120,7 @@ redirect_from:
 
 ***
 
-#### 🛠️EI期刊论文
+### 🛠️EI期刊论文
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
@@ -142,6 +142,15 @@ redirect_from:
           <td  style ="width:100px;">2024-09-30</td>
     <td></td>
   </tr>
+      <tr>
+        <td style ="width:5px;">4</td>
+    <td>面向智能手机的改进有限状态机步态探测算法</td>
+    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
+    <td>第一作者</td>
+    <td>武汉大学学报(信息科学版)</td>
+        <td  style ="width:100px;">2023-02-09</td>
+    <td>知网高被引</td>
+  </tr>
       <td style ="width:5px;">2</td>
     <td>智能手机Wi-Fi/PDR室内混合定位优化问题研究</td>
     <td><b>毕京学</b></td>
@@ -159,15 +168,7 @@ redirect_from:
           <td  style ="width:100px;">2021-03-15</td>
     <td>知网高被引，入选中国科协“科技期刊双语传播工程”</td>
   </tr>
-    <tr>
-        <td style ="width:5px;">4</td>
-    <td>面向智能手机的改进有限状态机步态探测算法</td>
-    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
-    <td>第一作者</td>
-    <td>武汉大学学报(信息科学版)</td>
-        <td  style ="width:100px;">2020-06-15</td>
-    <td>知网高被引</td>
-  </tr>
+
     <tr>
     <td style ="width:5px;">5</td>
     <td style ="width:250px;">基于随机森林回归的智能手机用步长估计模型</td>
@@ -179,7 +180,7 @@ redirect_from:
   </tr>
 </table>
 
-#### 📖中文核心论文
+### 📖中文核心论文
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
@@ -275,7 +276,7 @@ redirect_from:
 </table>
   
 
-###  🏆教学科研奖励 (Honors)
+##  🏆教学科研奖励 (Honors)
 
 
 
