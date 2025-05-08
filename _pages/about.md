@@ -116,7 +116,7 @@ redirect_from:
   </tr>
 </table>
 
-#### 🛠️EI期刊论文
+### 🛠️EI期刊论文
 ***
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
@@ -129,7 +129,6 @@ redirect_from:
     <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
   </tr>
   <tr>
-  <tr>
     <td style ="width:5px;">1</td>
     <td>后向窗口滤波优化的多行人多活动计步方法</td>
     <td><b>毕京学</b>, 卢文珂, 王建辉, 等</td>
@@ -138,6 +137,16 @@ redirect_from:
           <td  style ="width:100px;">2024-09-30</td>
     <td></td>
   </tr>
+   <tr>
+        <td style ="width:5px;">4</td>
+    <td>面向智能手机的改进有限状态机步态探测算法</td>
+    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
+    <td>第一作者</td>
+    <td>武汉大学学报(信息科学版)</td>
+        <td  style ="width:100px;">2023-02-09</td>
+    <td>知网高被引</td>
+  </tr>
+  <tr>
       <td style ="width:5px;">2</td>
     <td>智能手机Wi-Fi/PDR室内混合定位优化问题研究</td>
     <td><b>毕京学</b></td>
@@ -154,15 +163,6 @@ redirect_from:
     <td>中国矿业大学学报</td>
           <td  style ="width:100px;">2021-03-15</td>
     <td>知网高被引，入选中国科协“科技期刊双语传播工程”</td>
-  </tr>
-    <tr>
-        <td style ="width:5px;">4</td>
-    <td>面向智能手机的改进有限状态机步态探测算法</td>
-    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
-    <td>第一作者</td>
-    <td>武汉大学学报(信息科学版)</td>
-        <td  style ="width:100px;">2020-06-15</td>
-    <td>知网高被引</td>
   </tr>
     <tr>
     <td style ="width:5px;">5</td>
