@@ -151,6 +151,7 @@ redirect_from:
         <td  style ="width:100px;">2023-02-09</td>
     <td>知网高被引</td>
   </tr>
+   <tr>
       <td style ="width:5px;">2</td>
     <td>智能手机Wi-Fi/PDR室内混合定位优化问题研究</td>
     <td><b>毕京学</b></td>
@@ -168,7 +169,6 @@ redirect_from:
           <td  style ="width:100px;">2021-03-15</td>
     <td>知网高被引，入选中国科协“科技期刊双语传播工程”</td>
   </tr>
-
     <tr>
     <td style ="width:5px;">5</td>
     <td style ="width:250px;">基于随机森林回归的智能手机用步长估计模型</td>
