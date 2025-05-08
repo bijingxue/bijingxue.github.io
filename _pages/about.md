@@ -116,8 +116,8 @@ redirect_from:
   </tr>
 </table>
 
-### 🛠️EI期刊论文
-
+#### 🛠️EI期刊论文
+***
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
@@ -138,16 +138,6 @@ redirect_from:
           <td  style ="width:100px;">2024-09-30</td>
     <td></td>
   </tr>
-      <tr>
-        <td style ="width:5px;">4</td>
-    <td>面向智能手机的改进有限状态机步态探测算法</td>
-    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
-    <td>第一作者</td>
-    <td>武汉大学学报(信息科学版)</td>
-        <td  style ="width:100px;">2023-02-09</td>
-    <td>知网高被引</td>
-  </tr>
-   <tr>
       <td style ="width:5px;">2</td>
     <td>智能手机Wi-Fi/PDR室内混合定位优化问题研究</td>
     <td><b>毕京学</b></td>
@@ -166,6 +156,15 @@ redirect_from:
     <td>知网高被引，入选中国科协“科技期刊双语传播工程”</td>
   </tr>
     <tr>
+        <td style ="width:5px;">4</td>
+    <td>面向智能手机的改进有限状态机步态探测算法</td>
+    <td><b>毕京学</b>, 甄杰, 姚国标, 等</td>
+    <td>第一作者</td>
+    <td>武汉大学学报(信息科学版)</td>
+        <td  style ="width:100px;">2020-06-15</td>
+    <td>知网高被引</td>
+  </tr>
+    <tr>
     <td style ="width:5px;">5</td>
     <td style ="width:250px;">基于随机森林回归的智能手机用步长估计模型</td>
     <td style ="width:80px;"><b>毕京学</b>, 汪云甲, 齐红霞, 等</td>
@@ -176,7 +175,9 @@ redirect_from:
   </tr>
 </table>
 
+
 ### 📖中文核心论文
+
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
