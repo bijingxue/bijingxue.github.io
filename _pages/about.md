@@ -1,4 +1,4 @@
- ---
+---
 permalink: /
 title: ""
 author_profile: true
@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 
-
 ---
 
-##  👨‍🏫个人介绍 (About Me)
+## 个人介绍 (About Me)
 
 ***
 
