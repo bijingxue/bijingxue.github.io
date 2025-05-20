@@ -313,15 +313,13 @@ redirect_from:
         <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
           <th style="background-color: #4a90e2; color: white; padding: 10px;">级别</th>
           <th style="background-color: #4a90e2; color: white; padding: 10px;">姓名</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">毕业论文名称</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">荣誉</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px;">研究方向</th>
   </tr>
   <tr>
-          <td style ="width:200px;">1</td>
-          <td  style ="width:200px;" >2021级</td>
-          <td style ="width:200px;">赵美琪</td>
-          <td >基于单基站信号的到达角估计研究</td>
-    <td>山东建筑大学优秀毕业生</td>
+          <td>1</td>
+          <td>2021级</td>
+          <td>赵美琪</td>
+          <td>基于单基站信号的到达角估计研究</td>
   </tr>
   <tr>
         <td style ="width:5px;">2</td>
