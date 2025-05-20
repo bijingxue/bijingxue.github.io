@@ -97,7 +97,7 @@ redirect_from:
     <tr>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">代表图片</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">>第一/通讯作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">第一/通讯作者</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊名称</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">影响因子</th>
     <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊分类</th>
@@ -303,4 +303,4 @@ redirect_from:
     <b>2024年</b> 获得2023年度山东省机械工业科学技术协会“山东省机械工业科学技术奖”二等奖，项目为《基于无线信号的室内精密定位优化研究》，排名第1。
     </li>
 </ul>
-
+###  
