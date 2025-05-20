@@ -94,25 +94,34 @@ redirect_from:
 ### 🚀SCI期刊论文 (5篇代表作 平均影响因子：8.58)
 
 <table style=" font-size: 16px;">
+    <tr>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">代表图片</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">>第一/通讯作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">影响因子</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊分类</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px;">发表日期</th>
+  </tr>
       <tr>
     <td><img src="../images/image4.png" alt="图片2" width="1000px"></td>
-    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>IF:7.5</td><td>一区TOP</td><td>2025-04-03</td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625006190">Precise  Step Counting Algorithm for Pedestrians using Ultra-low-cost Foot-mounted  Accelerometer</a></td><td>第一作者</td><td>Engineering Applications of Artificial Intelligence</td><td>IF:7.5</td><td>一区TOP</td><td>2025-04-03</td>
   </tr>
      <tr>
     <td><img src="../images/image3.png" alt="图片2" width="1000px"></td>
-    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624008068">Inverse Distance Weight Assisted Particle Swarm Optimized Indoor Localization for Smartphone</a></td><td>第一作者</td><td>Applied Soft Computing</td><td>IF:7.2</td><td>一区TOP</td><td>2024-08-09</td>
   </tr>
      <tr>
     <td><img src="../images/image5.png" alt="图片2" width="1000px"></td>
-    <td><a href="www.sciencedirect.com/science/article/pii/S0957417423033699">LOS compensation and trusted NLOS recognition assisted WiFi RTT indoor positioning algorithm</a></td><td>唯一通讯作者</td><td>IF:8.5</td><td>一区TOP</td><td>2024-01-13</td>
+    <td><a href="www.sciencedirect.com/science/article/pii/S0957417423033699">LOS compensation and trusted NLOS recognition assisted WiFi RTT indoor positioning algorithm</a></td><td>唯一通讯作者</td><td>Expert Systems with Applications</td><td>IF:8.5</td><td>一区TOP</td><td>2024-01-13</td>
   </tr>
       <tr>
     <td><img src="../images/image1.png" alt="图片1" width="1000px"></td>
-      <td ><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798">PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</a><p style="color:red;">(ESI高被引)</p></td><td>第一作者</td><td>IF:8.5</td><td>一区TOP</td><td>2023-04-14</td>
+      <td ><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423002798">PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</a><p style="color:red;">(ESI高被引)</p></td><td>第一作者</td><td>Expert Systems with Applications</td><td>IF:8.5</td><td>一区TOP</td><td>2023-04-14</td>
   </tr>
   <tr>
     <td><img src="../images/image2.png" alt="图片2" width="1000px"></td>
-    <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td><td>第一作者</td><td>IF:11.2</td><td>一区TOP</td><td>2022-11-18</td>
+    <td> <a href="https://link.springer.com/article/10.1186/s43020-022-00086-y">Supplementary open dataset for WiFi indoor localization based on received signal strength</a></td><td>第一作者</td><td>Satellite Navigation</td><td>IF:11.2</td><td>一区TOP</td><td>2022-11-18</td>
   </tr>
 </table>
 
