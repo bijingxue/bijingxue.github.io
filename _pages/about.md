@@ -329,13 +329,15 @@ redirect_from:
   </tr>
   <tr>
         <td style ="width:5px;">3</td>
-          <td>2022级<td>
+          <td>2022级</td>
           <td>王建辉</td>
           <td></td>
      </tr>
 </table>
 
+
 ### 🧑‍🎓硕士在读生
+
 
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
