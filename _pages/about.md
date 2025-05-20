@@ -316,22 +316,35 @@ redirect_from:
           <th style="background-color: #4a90e2; color: white; padding: 10px;">研究方向</th>
   </tr>
   <tr>
-          <td>1</td>
-          <td>2021级</td>
-          <td>赵美琪</td>
-          <td>基于单基站信号的到达角估计研究</td>
+          <td >1</td>
+          <td   >2023级</td>
+          <td >卢文珂</td>
+          <td >点云变形监测</td>
   </tr>
   <tr>
         <td style ="width:5px;">2</td>
-          <td>2022级</td>
-          <td>李世卿</td>
-          <td></td>
+          <td>2023级</td>
+          <td>文泽涛</td>
+          <td>单目视觉定位室内导航</td>
   </tr>
   <tr>
         <td style ="width:5px;">3</td>
-          <td>2022级</td>
-          <td>王建辉</td>
-          <td></td>
+          <td>2024级</td>
+          <td>武祥汇</td>
+          <td>UWB室内定位</td>
+    </tr>
+      <tr>
+        <td style ="width:5px;">4</td>
+          <td>2024级</td>
+          <td>董庆涛</td>
+          <td>点云目标识别</td>
+    </tr>
+          <tr>
+        <td style ="width:5px;">5</td>
+          <td>2024级</td>
+          <td>张国梁</td>
+          <td>UWB基站部署与室内组合导航</td>
+    </tr>
 </table>
 
 ### 🧑‍🎓硕士在读生
