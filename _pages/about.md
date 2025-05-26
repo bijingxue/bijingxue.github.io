@@ -309,7 +309,59 @@ redirect_from:
     <td></td>
   </tr>
 </table>
-  
+
+## 💻发明专利
+
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
+  <tr>
+        <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">序号</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">专利名称</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">申请人</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">发明人</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">专利号</th>
+      		<th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">授权公告日</th>
+  </tr>
+      <tr>
+          <td>1</td>
+          <td>一种基于低成本加速度计的自适应精准计步方法</td>
+          <td>山东建筑大学</td>
+          <td><b>毕京学</b>; 王建辉; 曹鸿基等</td>
+          <td>ZL202411232135.0</td>
+      		<td>2025.01.21</td>
+  </tr>
+          <tr>
+          <td>2</td>
+          <td> 一种基于三维激光扫描的箱梁精准快速拼接方法</td>
+          <td>山东建筑大学</td>
+          <td><b>毕京学</b>; 卢文珂; 高磊等</td>
+          <td>ZL202411139197.7</td>
+      		<td>2024.08.20</td>
+  </tr>
+          <tr>
+          <td>3</td>
+          <td>一种端云协同的室内电磁指纹更新方法和系统</td>
+          <td>山东建筑大学</td>
+          <td><b>毕京学</b>; 程娜; 姚国标等</td>
+          <td>ZL202310624318.6</td>
+      		<td>2024.03.12</td>
+  </tr>
+  <tr>
+        <td style ="width:5px;">4</td>
+          <td>一种狭长空间中的定位方法</td>
+           <td>山东建筑大学</td>
+          <td><b>毕京学</b>; 姚国标; 曹鸿基等</td>
+          <td>ZL202211282950.9</td>
+          <td>2023.04.07</td>
+        </tr>
+      <tr>
+          <td>5</td>
+          <td>一种步态探测算法、装置以及系统</td>
+          <td>山东建筑大学</td>
+          <td><b>毕京学</b>; 姚国标; 宁一鹏等</td>
+          <td>ZL202010231228.7</td>
+      		<td>2022.08.23</td>
+  </tr>
+    </table>
 
 ##  🏆教学科研奖励 (Honors)
 
