@@ -29,11 +29,11 @@ redirect_from:
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <thead>
     <tr>
-         <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
-      <th style="background-color: #4a90e2; color: white; padding: 10px;">项目名称</th>
-      <th style="background-color: #4a90e2; color: white; padding: 10px;">项目来源</th>
-      <th style="background-color: #4a90e2; color: white; padding: 10px;">级别</th>
-      <th style="background-color: #4a90e2; color: white; padding: 10px;">主持/参与</th>
+         <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">序号</th>
+      <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">项目名称</th>
+      <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">项目来源</th>
+      <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">级别</th>
+      <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">主持/参与</th>
     </tr>
   </thead>
   <tbody>
@@ -95,13 +95,13 @@ redirect_from:
 
 <table style=" font-size: 16px;">
     <tr>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">代表图片</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">第一/通讯作者</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊名称</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">影响因子</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊分类</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">发表日期</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">代表图片</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">论文名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">第一/通讯作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">期刊名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">影响因子</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">期刊分类</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">发表日期</th>
   </tr>
       <tr>
     <td><img src="../images/image4.png" alt="图片2" width="1000px"></td>
@@ -158,13 +158,13 @@ redirect_from:
 ***
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">作者</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">第一/通讯作者</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊名称</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">日期</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">序号</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">论文名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">第一/通讯作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">期刊名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">日期</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">备注</th>
   </tr>
   <tr>
     <td style ="width:5px;">1</td>
@@ -219,13 +219,13 @@ redirect_from:
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">论文名称</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">作者</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">第一/通讯作者</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">期刊名称</th>
-       <th style="background-color: #4a90e2; color: white; padding: 10px;">日期</th>
-    <th style="background-color: #4a90e2; color: white; padding: 10px;">备注</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">序号</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">论文名称</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">第一/通讯作者</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">期刊名称</th>
+       <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">日期</th>
+    <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">备注</th>
   </tr>
   <tr>
     <td style ="width:5px;">1</td>
@@ -408,7 +408,147 @@ redirect_from:
     </li>
 </ul>
 
-### 🧑‍🎓硕士研究生
+### 🏆指导学生奖励
+
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
+  <tr>
+        <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">序号</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">荣誉名称</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">获奖人员</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">奖励级别</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">获奖时间</th>
+      <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">颁发单位</th>
+      		<th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">备注</th>
+  </tr>
+      <tr>
+          <td>1</td>
+          <td>2024年度山东省研究生创新成果</td>
+          <td>李世卿、王建辉、赵美琦</td>
+          <td>省级</td>
+          <td>2025.02.08</td>
+      		<td>山东省教育厅</td>
+      		<td>获奖成果名称：无线信号定位定向关键技术</td>
+  </tr>
+          <tr>
+          <td>2</td>
+          <td> 2024届山东省普通高等学校优秀班干部</td>
+          <td>马秀振</td>
+          <td>省级</td>
+          <td></td>
+      		<td>山东省人力资源和社会保障厅</td>
+            <td></td>
+  </tr>
+          <tr>
+          <td>3</td>
+          <td>2024届山东省普通高等学校优秀毕业生</td>
+          <td>辛会广</td>
+          <td>省级</td>
+          <td></td>
+      		<td>山东省人力资源和社会保障厅</td>
+            <td></td>
+  </tr>
+  <tr>
+        <td style ="width:5px;">4</td>
+          <td>2024届优秀学士学位论文（设计）</td>
+           <td>辛会广</td>
+          <td>校级</td>
+          <td>2023.07.03</td>
+          <td>山东建筑大学</td>
+      <td>获奖成果名称：基于支持向量回归与温度补偿气压的室内高度估计方法</td>
+        </tr>
+      <tr>
+          <td>5</td>
+          <td>2023届优秀学士学位论文（设计）</td>
+          <td>王腾</td>
+          <td>校级</td>
+          <td>2023.07.10</td>
+      		<td>山东建筑大学</td>
+          <td>获奖成果名称：基于信道状态信息的人体行为识别研究</td>
+  </tr>
+          <tr>
+          <td>6</td>
+          <td>2023届山东省普通高等学校优秀毕业生</td>
+          <td>曹景春</td>
+          <td>省级</td>
+          <td>2023.04.17</td>
+          <td>山东省人力资源和社会保障厅</td>
+              <td></td>
+  </tr>
+          <tr>
+          <td>7</td>
+          <td>2023届山东省普通高等学校优秀毕业生</td>
+          <td>李永辉</td>
+          <td>省级</td>
+          <td>2023.04.17</td>
+          <td>山东省人力资源和社会保障厅</td>
+              <td></td>
+  </tr>
+          <tr>
+          <td>8</td>
+          <td>2023届山东省普通高等学校优秀毕业生</td>
+          <td>王腾</td>
+          <td>省级</td>
+          <td>2023.04.17</td>
+          <td>山东省人力资源和社会保障厅</td>
+              <td></td>
+  </tr>
+          <tr>
+          <td>9</td>
+          <td>2022届山东省普通高等学校优秀毕业生</td>
+          <td>于谋哲</td>
+          <td>省级</td>
+          <td>2022.04.21</td>
+          <td>山东省人力资源和社会保障厅</td>
+              <td></td>
+  </tr>
+              <tr>
+          <td>10</td>
+          <td>2022届山东省普通高等学校优秀毕业生</td>
+          <td>谷新茹</td>
+          <td>校级</td>
+          <td>2022.03.31</td>
+          <td>山东建筑大学</td>
+              <td></td>
+  </tr>
+                  <tr>
+          <td>11</td>
+          <td>2021年度山东省高等学校优秀学生</td>
+          <td>李永辉</td>
+          <td>省级</td>
+          <td>2022.05.01</td>
+          <td>山东省教育厅</td>
+              <td></td>
+  </tr>
+                      <tr>
+          <td>11</td>
+          <td>2021年度山东省高等学校优秀学生</td>
+          <td>李永辉</td>
+          <td>省级</td>
+          <td>2022.05.01</td>
+          <td>山东省教育厅</td>
+              <td></td>
+  </tr>
+                 <tr>
+          <td>12</td>
+          <td>2020届优秀学士学位论文（设计）</td>
+          <td>王兆乾</td>
+          <td>校级</td>
+          <td>2020.07.06</td>
+          <td>山东建筑大学</td>
+              <td>获奖成果：基于贝叶斯估计的室内WiFi指纹定位方法研究</td>
+  </tr>
+                 <tr>
+          <td>13</td>
+          <td>2020年度山东建筑大学优秀学生</td>
+          <td>王兆乾</td>
+          <td>校级</td>
+          <td>2020.03.04</td>
+          <td>山东建筑大学</td>
+              <td></td>
+  </tr>
+    </table>
+
+## 🧑‍🎓硕士研究生
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
@@ -484,6 +624,7 @@ redirect_from:
               <td >在读</td>
     </tr>
 </table>
+
 
 
 
