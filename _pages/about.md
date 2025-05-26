@@ -125,6 +125,35 @@ redirect_from:
   </tr>
 </table>
 
+### 📖学术著作
+
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
+  <tr>
+        <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">序号</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">作者</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">著作名称</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">出版社</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">出版时间</th>
+      		<th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">备注</th>
+  </tr>
+  <tr>
+          <td>1</td>
+          <td><b>毕京学</b>，刘克强，汪云甲</td>
+          <td>面向智能手机的室内三维位置感知与活动识别</td>
+          <td>中国矿业大学出版社</td>
+          <td>2021.03</td>
+      		<td>全国百佳图书出版单位</td>
+  </tr>
+  <tr>
+        <td style ="width:5px;">2</td>
+          <td>齐红霞，汪云甲，秦凯，<b>毕京学</b></td>
+          <td>室内楼层识别与高程估计</td>
+          <td>中国矿业大学出版社</td>
+          <td>2022.12</td>
+      <td>全国百佳图书出版单位</td>
+  </tr>
+    </table>
+
 ### 🛠️EI期刊论文
 ***
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
@@ -284,7 +313,7 @@ redirect_from:
 
 ##  🏆教学科研奖励 (Honors)
 
-
+### 🔬科研奖励
 
 <ul style="font-size: 16px;">
     <li>
@@ -304,80 +333,28 @@ redirect_from:
     </li>
 </ul>
 
+### 👨‍🏫教学奖励
 
-
-###  🧑‍🎓硕士毕业生
-
-<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
-  <tr>
-        <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">级别</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">姓名</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">研究方向</th>
-  </tr>
-  <tr>
-          <td>1</td>
-          <td>2021级</td>
-          <td>赵美琪</td>
-          <td>基于单基站信号的到达角估计研究</td>
-  </tr>
-  <tr>
-        <td style ="width:5px;">2</td>
-          <td>2022级</td>
-          <td>李世卿</td>
-          <td></td>
-  </tr>
-  <tr>
-        <td style ="width:5px;">3</td>
-          <td>2022级</td>
-          <td>王建辉</td>
-          <td></td>
-     </tr>
-</table>
-
-
-### 🧑‍🎓硕士在读生
-
-
-
-<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
-  <tr>
-        <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">年纪</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">姓名</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">研究方向</th>
-  </tr>
-  <tr>
-          <td >1</td>
-          <td   >2023级</td>
-          <td >卢文珂</td>
-          <td >点云变形监测</td>
-  </tr>
-  <tr>
-        <td style ="width:5px;">2</td>
-          <td>2023级</td>
-          <td>文泽涛</td>
-          <td>单目视觉定位室内导航</td>
-  </tr>
-  <tr>
-        <td style ="width:5px;">3</td>
-          <td>2024级</td>
-          <td>武祥汇</td>
-          <td>UWB室内定位</td>
-    </tr>
-      <tr>
-        <td style ="width:5px;">4</td>
-          <td>2024级</td>
-          <td>董庆涛</td>
-          <td>点云目标识别</td>
-    </tr>
-          <tr>
-        <td style ="width:5px;">5</td>
-          <td>2024级</td>
-          <td>张国梁</td>
-          <td>UWB基站部署与室内组合导航</td>
-    </tr>
-</table>
+<ul style="font-size: 16px;">
+    <li>
+        <b>2020年</b> 获得2019年度山东建筑大学“优秀指导教师奖”一等奖，排名1/1。
+    </li>
+    <li>
+        <b>2021年</b> 获得2020年度山东建筑大学“优秀指导教师奖”二等奖，排名1/1。
+    </li>
+    <li>
+        <b>2022年</b> 获得2022年全国大学生测绘学科创新创业智能大赛“优秀指导教师奖”（测绘程序设计比赛专业组），排名1/1。
+    </li>
+    <li>
+        <b>2023年</b> 获得2022年度山东建筑大学“优秀指导教师奖”一等奖，排名1/1。
+    </li>
+    <li>
+        <b>2023年</b> 获得2023年度山东建筑大学“优秀班主任”荣誉称号，排名1/1。
+    </li>
+    <li>
+        <b>2024年</b> 获得2023年度山东建筑大学“优秀指导教师奖”一等奖，排名1/1。
+    </li>
+</ul>
 
 ### 🧑‍🎓硕士研究生
 
