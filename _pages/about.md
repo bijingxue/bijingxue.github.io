@@ -12,7 +12,7 @@ redirect_from:
 
 ***
 
-<p style=" font-size: 16px;">山东建筑大学项目研究员/副教授，硕士生导师，中国电子科技集团公司第五十四研究所综合时空网络与装备技术全国重点实验室（原卫星导航系统与装备技术国家重点实验室）博士后，山东省青创团队带头人，长期从事室内外无缝精密定位、活动感知、实景三维等方面的研究工作，以第一/通讯作者发表高水平论文30余篇，其中，ESI高被引1篇，中科院1区(TOP)5篇、2区(TOP)3篇，EI 6篇，中国科协科技期刊双语传播工程1篇,中国知网高被引论文5篇；出版学术著作2部；授权发明专利14项（首位6项，美国专利1项）；获得卫星导航定位科技进步二等奖2项、山东省机械工业科学技术一等奖1项、山东省人工智能科技进步二等奖1项。主持国家自然科学基金青年项目、山东省青创团队计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省燕赵黄金台聚才计划骨干人才项目重点资助等纵向科研项目，核心参与国家重点研发计划、“863”计划等国家级项目。</p>
+<p style=" font-size: 16px;">山东建筑大学项目研究员/副教授，硕士生导师，中国电子科技集团公司第五十四研究所综合时空网络与装备技术全国重点实验室（原卫星导航系统与装备技术国家重点实验室）博士后，山东省青创团队带头人，长期从事室内外无缝精密定位、活动感知、实景三维等方面的研究工作，以第一/通讯作者发表高水平论文30余篇，其中，ESI高被引1篇，中科院1区TOP5篇、2区TOP3篇，EI 6篇，中国科协科技期刊双语传播工程1篇，中国知网高被引论文5篇；出版学术著作2部；授权发明专利14项（首位6项，美国专利1项）；获得卫星导航定位科技进步二等奖2项、山东省机械工业科学技术一等奖1项、山东省人工智能科技进步二等奖1项。主持国家自然科学基金青年项目、山东省青创团队计划项目、河北省自然科学基金面上项目、山东省自然科学基金青年项目、河北省燕赵黄金台聚才计划骨干人才项目重点资助等纵向科研项目，核心参与国家重点研发计划、“863”计划等国家级项目。</p>
 
 ##  🎓研究方向(Interests)
 
@@ -343,7 +343,7 @@ redirect_from:
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
   <tr>
         <th style="background-color: #4a90e2; color: white; padding: 10px;">序号</th>
-          <th style="background-color: #4a90e2; color: white; padding: 10px;">级别</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px;">年纪</th>
           <th style="background-color: #4a90e2; color: white; padding: 10px;">姓名</th>
           <th style="background-color: #4a90e2; color: white; padding: 10px;">研究方向</th>
   </tr>
@@ -379,6 +379,82 @@ redirect_from:
     </tr>
 </table>
 
+### 🧑‍🎓硕士研究生
+
+<table style="width: 100%; border-collapse: collapse; font-size: 16px; border: 1px solid #333; text-align: center;">
+  <tr>
+        <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">序号</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">年纪</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">姓名</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">学科类型</th>
+          <th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">研究方向</th>
+      		<th style="background-color: #4a90e2; color: white; padding: 10px; text-align: center;">备注</th>
+  </tr>
+  <tr>
+          <td>1</td>
+          <td>2021级</td>
+          <td>赵美琪</td>
+          <td>测绘科学与技术</td>
+          <td>室内外无缝精密定位</td>
+      		<td>毕业</td>
+  </tr>
+  <tr>
+        <td style ="width:5px;">2</td>
+          <td>2022级</td>
+          <td>李世卿</td>
+          <td>土木工程</td>
+          <td>室内外无缝精密定位</td>
+      <td>毕业</td>
+  </tr>
+  <tr>
+        <td style ="width:5px;">3</td>
+          <td>2022级</td>
+          <td>王建辉</td>
+      <td>测绘科学与技术</td>
+          <td>活动感知</td>
+      <td>毕业</td>
+     </tr>
+      <tr>
+          <td>4</td>
+          <td>2023级</td>
+          <td >卢文珂</td>
+          <td>测绘工程</td>
+          <td >实景三维</td>
+           <td >在读</td>
+  </tr>
+  <tr>
+        <td style ="width:5px;">5</td>
+          <td>2023级</td>
+          <td>文泽涛</td>
+     	 <td>测绘工程</td>
+          <td>活动感知</td>
+      <td >在读</td>
+  </tr>
+  <tr>
+        <td style ="width:5px;">6</td>
+          <td>2024级</td>
+          <td>武祥汇</td>
+      <td>测绘工程</td>
+          <td>室内外无缝精密定位</td>
+      	<td >在读</td>
+    </tr>
+      <tr>
+        <td style ="width:5px;">7</td>
+          <td>2024级</td>
+          <td>董庆涛</td>
+          <td>测绘工程</td>
+          <td>实景三维</td>
+			<td >在读</td>
+    </tr>
+          <tr>
+        <td style ="width:5px;">8</td>
+          <td>2024级</td>
+          <td>张国梁</td>
+          <td>测绘工程</td>
+          <td>室内外无缝精密定位</td>
+              <td >在读</td>
+    </tr>
+</table>
 
 
 
